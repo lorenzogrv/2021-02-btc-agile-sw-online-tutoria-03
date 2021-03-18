@@ -1,0 +1,2169 @@
+Script iniciado en 2021-03-18 17:31:17+0100
+ lorenzo  ~  repos  lorenzogrv  git clone git@github.com:lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03.git
+Clonando en '2021-02-btc-agile-sw-online-tutoria-03'...
+remote: Enumerating objects: 16, done.
+remote: Counting objects: 100% (16/16), done.
+remote: Compressing objects: 100% (11/11), done.
+remote: Total 16 (delta 0), reused 16 (delta 0), pack-reused 0
+Recibiendo objetos: 100% (16/16), 5.11 KiB | 5.11 MiB/s, listo.
+ lorenzo  ~  repos  lorenzogrv  cd 2021-02-btc-agile-sw-online-tutoria-03/
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  tree
+ .
+ ├── src
+ │   ├── es
+ │   └── main.ts
+ ├── test
+ │   └── suite.test.ts
+ ├── jest.config.js
+ ├── package.json
+ ├── README.md
+ └── tsconfig.json
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm install
+npm.WARN.deprecated]request-promise-native@1.0.9:-request-promise-nativenhasebeenodeprecateddbecauseaitlextends-thetnowcdeprecatedrrequestmpackage,nsee8https://github.com/request/request/issues/3142
+npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated]resolve-url@0.2.1:mhttps://github.com/lydell/resolve-url#deprecated4mspletedline2052ms995ms
+npm WARN deprecated]request@2.88.2:arequestihasrbeenNdeprecated,dseeshttps://github.com/request/request/issues/3142regex-util-25.2.6.tgzt2090ms/-/helper-compi
+[		  .] \ reify:typescript:etimingGreifyNode:node_modules/caniuse-litesCompleteduin-3769ms/caniuse-lite-1.0.30001202.tgz13304ms
+added 541 packages, and audited 542 packages in 15s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm run build
+
+> build
+> tsc
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  vim .travis.yml
+".travis.yml" [Archivo nuevo]▽
+language:101n210																	       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			       NORMAL   master  ./.travis.yml                                                                                              unix  yaml  100%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31-- INSERTAR -- INSERT   master  ./.travis.yml                                                                                              unix  yaml  100%     1:1  l +  2a3n4g5u6a7g8e9
+										2:1 23-- 5n6o7d8e9_10j1s2
+node_js:9									3:3 1n2o3d4e5_6j7s8
+										4:123-- 51627
+										5:3s431~																			      4:7
+stages:898									5:31s2t3a4g5e6s7
+										6:123-- 5t6e7s8t9
+before_script:5 								7:31b2e3f4o5r6e7_8s9c10r1i2p3t4
+										8:1 23-- 5n6p7m89c10i1
+script:8									9:3 1s2c3r4i5p6t7
+										10:123-- 5n6p7m89t10e1s2t3 NORMAL   master  ./.travis.yml +                                                                                            unix  yaml  100%    10:12   90% 9:7   language:
+    - node_js
+  node_js:
+    - 12
+  stages:
+    - test
+  before_script:
+    - npm ci
+  script:
+    - npm test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document-start:~missing~document~start~"---"--eINSERTAR:-- INSERT   master  ./.travis.yml +                                                                                            unix  yaml   10%     1:1  
+---anglanguage:8%2: - node_js--4node_js: 27%3- '12'4: stages:'12st-gtest - before_script:ipt: --npmmciiscscript:- npm-tnpm6testage~:  - testbefore_script:  - npm ciscript:  - npm test9 NORMAL   master  ./.travis.yml +                                                                                            unix  yaml   45%     5:8    55%6:7  -
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+".travis.yml":[Nuevo] 11L, 108C escritos
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git status
+En la rama master
+Tu rama está actualizada con 'origin/master'.
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
+
+	modificado:	package.json
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+
+	.travis.yml
+	out/
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git diff package.json
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+modified: package.json
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+@ package.json:4 @
+{
+    "scripts": {
+      "test": "jest",
+      "build": "tsc"
+	"test": "jest",
+	"build": "tsc"
+    },
+    "devDependencies": {
+      "@types/jest": "^25.2.3",
+      "jest": "^25.5.4",
+      "ts-jest": "^25.5.1",
+      "typescript": "^3.9.5"
+    },
+    "dependencies": {}
+  }
+
+\ No newline at end of file
+	"@types/jest": "^25.2.3",
+	"jest": "^25.5.4",
+	"ts-jest": "^25.5.1",
+	"typescript": "^3.9.5"
+    }
+}
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git add .travis.yml
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git checkoutm-b lolo_devel
+A	.travis.yml
+M	package.json
+Cambiado a nueva rama 'lolo_devel'
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git status
+En la rama lolo_devel
+Cambios a ser confirmados:
+  (usa "git reset HEAD <archivo>..." para sacar del área de stage)
+
+	nuevo archivo:	.travis.yml
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
+
+	modificado:	package.json
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+
+	out/
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git commit -m "añadir config travis CI"
+[lolo_devel 76e91e3] añadir config travis CI
+ 1 file changed, 11 insertions(+)
+ create mode 100644 .travis.yml
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git push
+fatal: La rama actual lolo_devel no tiene una rama upstream.
+Para realizar un push de la rama actual y configurar el remoto como upstream, use
+
+	git push --set-upstream origin lolo_devel
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git push -u origin lolo_devel
+Contando objetos: 3, listo.
+Delta compression using up to 8 threads.
+Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos: 100% (3/3), 370 bytes | 370.00 KiB/s, listo.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote:
+remote: Create a pull request for 'lolo_devel' on GitHub by visiting:
+remote:      https://github.com/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/pull/new/lolo_devel
+remote:
+To github.com:lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03.git
+ * [new branch]      lolo_devel -> lolo_devel
+Rama 'lolo_devel' configurada para hacer seguimiento a la rama remota 'lolo_devel' de 'origin'.
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  tree
+ .
+ ├── node_modules [381 entries exceeds filelimit, not opening dir]
+ ├── out
+ │   ├── src
+ │   └── test
+ ├── src
+ │   ├── es
+ │   └── main.ts
+ ├── test
+ │   └── suite.test.ts
+ ├── jest.config.js
+ ├── package.json
+ ├── package-lock.json
+ ├── README.md
+ └── tsconfig.json
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  mkdir -p test/es/geekshubs/academy/kata3
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  tree
+ .
+ ├── node_modules [381 entries exceeds filelimit, not opening dir]
+ ├── out
+ │   ├── src
+ │   └── test
+ ├── src
+ │   ├── es
+ │   └── main.ts
+ ├── test
+ │   ├── es
+ │   └── suite.test.ts
+ ├── jest.config.js
+ ├── package.json
+ ├── package-lock.json
+ ├── README.md
+ └── tsconfig.json
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  mv src/main.ts src/Main.ts
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  ls src/es/geekshubs/academy/
+ total 4,0K
+ drwxrwxr-x 2 lorenzo 4,0K mar 18 17:38 kata3
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  ls src/es/geekshubs/academy/kata3/
+ total 4,0K
+ -rw-rw-r-- 1 lorenzo 1,7K mar 18 17:38 Animals.ts
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  vim src/es/geekshubs/academy/kata3/Animals.ts
+"src/es/geekshubs/academy/kata3/Animals.ts" [no hay fin de línea] 79L, 1674C▽  export class _Service {
+    repository = new _Repository();
+    constructor() {
+    }
+    get(index:number) : _Animal{ return this.repository.list[index];
+    }
+    put(animal: _Animal) : number { return this.repository.list.push(animal);
+    }
+    deleteFirst() : _Animal { return this.repository.list.shift()!;
+    }
+    deleteLast() : _Animal { return this.repository.list.pop()!;
+    }
+}
+export class _Animal {
+    constructor(public name:string ) { }
+    move(meters: number) { var msg = this.name + " moved " + meters + "m."; console.log(msg);
+    }
+}
+export class _Snake extends _Animal {
+    constructor( name : string ) { super(name); }
+    move() { console.log("Slithering..."); super.move(30);
+    }
+}
+export class _Horse extends _Animal {
+    constructor( name : string ) { super(name); }
+    move()  { console.log("Galloping..."); super.move(45);
+    }
+}
+export class _Repository {
+    list = new Array<_Animal>()
+    constructor() { this.prepare();
+    }
+    private prepare() : void { this.list.push(new _Horse("Horse-1")); this.list.push(new _Animal("Animal-1")); this.list.push(new _Snake("Snake-1")); this.list.push(new _Horse("Horse-2")); this.list.push(new _Animal("Animal-2")); this.list.push(new _Snake("Snake-2")); this.list.push(new _Horse("Horse-3")); this.list.push(new _Snake("Snake-3")); this.list.push(new _Animal("Animal-3")); this.list.push(new _Horse("Snake-4"));
+    }
+ NORMAL   lolo_devel  src/es/geekshubs/academy/kata3/Animals.ts                                                unix  utf-8  typescript    1%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31:  export class _Service {
+
+      repository = new _Repository();
+
+      constructor() {
+      }
+
+      get(index:number) : _Animal{
+	  return this.repository.list[index];
+      }
+
+      put(animal: _Animal) : number {
+	  return this.repository.list.push(animal);
+      }
+
+      deleteFirst() : _Animal {
+	  return this.repository.list.shift()!;
+      }
+
+      deleteLast() : _Animal {
+	  return this.repository.list.pop()!;
+      }
+  }
+
+  export class _Animal {
+
+      constructor(public name:string ) { }
+
+      move(meters: number) {
+	  var msg = this.name + " moved " + meters + "m.";
+	  console.log(msg);
+      }
+  }
+
+  export class _Snake extends _Animal {
+
+      constructor( name : string ) { super(name); }
+
+      move() {
+	  console.log("Slithering...");
+	  super.move(30);
+      }
+  }
+
+  export class _Horse extends _Animal {
+
+      constructor( name : string ) { super(name); }
+
+      move()  {
+	  console.log("Galloping...");
+	  super.move(45);
+      }
+  }
+
+  export class _Repository {
+
+      list = new Array<_Animal>()
+
+      constructor() {
+	  this.prepare();
+      }
+
+      private prepare() : void {
+	  this.list.push(new _Horse("Horse-1"));
+	  this.list.push(new _Animal("Animal-1"));
+	  this.list.push(new _Snake("Snake-1"));
+	  this.list.push(new _Horse("Horse-2"));
+	  this.list.push(new _Animal("Animal-2"));
+	  this.list.push(new _Snake("Snake-2"));
+	  this.list.push(new _Horse("Horse-3"));
+	  this.list.push(new _Snake("Snake-3"));
+	  this.list.push(new _Animal("Animal-3"));
+	  this.list.push(new _Horse("Snake-4"));
+      }
+     >>=COMMND 
+_Animal_Animal_Animal_Animal_Animal_Animal_Animal_Animal_Animal_Animal_Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_AnimalNFIRM   10%8:25Animal{ _Animal +    15%12:17
+¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?Animal) : number { _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  20%6:21Animal { _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  25%20:20Animal { _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  32%5:14Animal { _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  44%3529Animal { _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  57%45Animal { _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  72%57:22Animal>() _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  82%65:28Animal("Animal-1");  _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  86%8:Animal("Animal-2");  _Animal¿Reemplazar con Animal (y/n/a/q/l/^E/^Y)?_Animal  91%72:
+Animal("Animal-3");	   getList() : Array<_Animal> {
+
+"src/es/geekshubs/academy/kata3/Animals.ts"c79L,-1654Ctescritos:CUnexpected%tokenS=:wq3%2:4   4%3:5:echomsgal:messageazareconaSnake (y/n/a/q/l/^E/^Y)?_Snake  84%66:28Snake("Snake-1");e-_Snake¿ReemplazarpconaSnake (y/n/a/q/l/^E/^Y)?_Snake  87%9:Snake("Snake-2");e-_Snake¿ReemplazarpconaSnake (y/n/a/q/l/^E/^Y)?_Snake  90%71:49sustitucionesren-4"líneasSnake("Snake-3");onNORMAL 1   89%0:l/export?classe_Service {u   4% 3:5:echomsgll:messagee("Snake-4");  3 lines yankedNORMAL 1 :%s/_Horse/Horse/gc
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm install --save-dev standard ts-standard
+[..................] \ reify:es-abstract:rtimingGreifyNode:node_modules/ts-standard/node_modules/eslint.Completed0inr1744mslint/scope-manager/-/scope-manager-
+added 205 packages, and audited 747 packages in 8s
+
+77 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  tree
+ .
+ ├── node_modules [488 entries exceeds filelimit, not opening dir]
+ ├── out
+ │   ├── src
+ │   └── test
+ ├── src
+ │   ├── es
+ │   └── Main.ts
+ ├── test
+ │   ├── es
+ │   └── suite.test.ts
+ ├── jest.config.js
+ ├── package.json
+ ├── package-lock.json
+ ├── README.md
+ └── tsconfig.json
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  mv test/suite.test.ts test/es/geekshubs/academy/kata3/Suite.test.ts
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  vimttest/es/geekshubs/academy/kata3/Suite.test.tsata3/Suite.test.ts
+"test/es/geekshubs/academy/kata3/Suite.test.ts" 34L, 902C▽  import { _Animal }	from "../src/es/geekshubs/academy/kata3/Animals"
+import { _Horse }  from "../src/es/geekshubs/academy/kata3/Animals"
+import { _Snake }  from "../src/es/geekshubs/academy/kata3/Animals"
+describe('Testing', function (){
+    test('_Animal name', function () { //Arrange var expected = "Animal-1"; //Act var result = new _Animal("Animal-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('_Horse name', function () { //Arrange var expected = "Horse-1"; //Act var result = new _Horse("Horse-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('_Snake name', function () { //Arrange var expected = "Snake-1"; //Act var result = new _Snake("Snake-1"); //Assert expect(result.name).toBe(expected);
+    });
+});
+_Snake_Snake_Snake¿Reemplazar con Snake (y/n/a/q/l/^E/^Y)?_SnakeCNFIRM    9%3:10Snake }  from "../src/es/geekshubs/academy/kata3/Animals" _Snake +    74%25:11~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			        NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31:%s/_Snake/Snake/gc
+"test/es/geekshubs/academy/kata3/Suite.test.ts"n34L,/893C/escritosRM    3% 1:10Animale}} fromm"../src/es/geekshubs/academy/kata3/Animals""_Animal¿Reemplazarncon(Animal((y/n/a/q/l/^E/^Y)?_Animal  21%7:11Animalaname',ufunction)() {H_Animal¿ReemplazarnconrAnimaln(y/n/a/q/l/^E/^Y)?_Animal  32%11:263isustituciones enn3alíneasAnimal("Animal-1");L NORMAL 1   35%2:  38%3::wq
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm test
+
+> test
+> jest
+
+Determining test suites to run...
+
+Test Suites: 0 of 2 total
+Tests:	     0 total
+Snapshots:   0 total
+Time:	     0s
+ RUNS  out/test/suite.test.js
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 0 of 2 total
+Tests:	     0 total
+Snapshots:   0 total
+TPASS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 0 of 2 total
+Tests:	     0 total
+Snapshots:   0 total
+Time:	     0s
+ RUNS  out/test/suite.test.js
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 0 of 2 total
+Tests:	     0 total
+Snapshots:   0 total
+Time:	     0s
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 1 passed, 1 of 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Time:	     0s
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 1 passed, 1 of 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Time:	     1s
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 1 passed, 1 of 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+TFAIL  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 1 passed, 1 of 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Ti●eTest suitesfailed to run
+
+    test/es/geekshubs/academy/kata3/Suite.test.ts:1:25 - error TS2307: Cannot find module '../src/es/geekshubs/academy/kata3/Animals' or its corresponding type declarations.
+
+    1 import { Animal }  from "../src/es/geekshubs/academy/kata3/Animals"
+			      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    test/es/geekshubs/academy/kata3/Suite.test.ts:2:24 - error TS2307: Cannot find module '../src/es/geekshubs/academy/kata3/Animals' or its corresponding type declarations.
+
+    2 import { Horse }	from "../src/es/geekshubs/academy/kata3/Animals"
+			     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    test/es/geekshubs/academy/kata3/Suite.test.ts:3:24 - error TS2307: Cannot find module '../src/es/geekshubs/academy/kata3/Animals' or its corresponding type declarations.
+
+    3 import { Snake }	from "../src/es/geekshubs/academy/kata3/Animals"
+			     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 1 passed, 1 of 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Test:Suites: 1sfailed, 1 passed, 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Time:	     2.44s
+Ran all test suites.
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  vim test/es/geekshubs/academy/kata3/Suite.test.ts
+"test/es/geekshubs/academy/kata3/Suite.test.ts" 34L, 893C▽  import { Animal }  from "../src/es/geekshubs/academy/kata3/Animals"
+import { Horse }  from "../src/es/geekshubs/academy/kata3/Animals"
+import { Snake }  from "../src/es/geekshubs/academy/kata3/Animals"
+describe('Testing', function (){
+    test('Animal name', function () { //Arrange var expected = "Animal-1"; //Act var result = new Animal("Animal-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('Horse name', function () { //Arrange var expected = "Horse-1"; //Act var result = new Horse("Horse-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('Snake name', function () { //Arrange var expected = "Snake-1"; //Act var result = new Snake("Snake-1"); //Assert expect(result.name).toBe(expected);
+    });
+});
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			        NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31   6%2:   3%1:{}8{ } {}7{ } 89201234565678-- INSERTAR -- INSERT   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:28  NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:27 :%s/"../-- INSERTAR -- INSERT   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:27 50{}1787{ } {}9 Animal }  from "../src/es/geekshubs/academy/kata3/Animals"  +  }
+  Animal }  from "../src/es/geekshubs/academy/kata3/Animals" {    6%2:3{}10{ } 9 }  from "../src/es/geekshubs/academy/kata3/Animals" {}
+}}}1{ 8from."../src/es/geekshubs/academy/kata3/Animals"imals"
+
+import.{rHorseg}ekfroms"../src/es/geekshubs/academy/kata3/Animals"c--eLÍNEAtVISUALm-- V·LINE  ⇕1   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ?? +  7.src/es/geekshubs/academy/kata3/Animals"8/src/es/geekshubs/academy/kata3/Animals"9 NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ?? +                                       unix  utf-8  typescript    8%     3:18   11%4:
+import { Snake }  from "../src/es/geekshubs/academy/kata3/Animals" 2   14%5:~																				   ~																				   NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ?? +         12%4:1 {
+
+}   9%3:{
+
+"test/es/geekshubs/academy/kata3/Suite.test.ts"36L,t785Cgescritos       8%3:   6%2:--eINSERTAR -- INSERT   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    6%     2:7  10/geekshubs/academy/kata3/Suite.test.ts ?? +                                       unix  utf-8  typescript   11%     4:7  :w
+Animal,  Horse,~																			       +   Horse,  7
+"test/es/geekshubs/academy/kata3/Suite.test.ts" 34L, 781C escritos														     Snake SSnake8 NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ?? +                                       unix  utf-8  typescript    6%     2:17    9%3::wq
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm test
+
+> test
+> jest
+
+Determining test suites to run...
+
+ RUNS  out/test/suite.test.js
+ PASS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+ FAIL  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+  ● Test suite failed to run
+
+    test/es/geekshubs/academy/kata3/Suite.test.ts:3:9 - error TS2307: Cannot find module '../../../src/es/geekshubs/academy/kata3/Animals' or its corresponding type declarations.
+
+    3 }  from "../../../src/es/geekshubs/academy/kata3/Animals"
+	      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+Test Suites: 1 failed, 1 passed, 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Time:	     2.243s
+Ran all test suites.
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  pwd
+/home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  vim test/es/geekshubs/academy/kata3/Suite.test.ts
+"test/es/geekshubs/academy/kata3/Suite.test.ts" 34L, 781C▽  import {
+  Animal, Horse, Snake
+}  from "../../../src/es/geekshubs/academy/kata3/Animals"
+describe('Testing', function (){
+    test('Animal name', function () { //Arrange var expected = "Animal-1"; //Act var result = new Animal("Animal-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('Horse name', function () { //Arrange var expected = "Horse-1"; //Act var result = new Horse("Horse-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('Snake name', function () { //Arrange var expected = "Snake-1"; //Act var result = new Snake("Snake-1"); //Assert expect(result.name).toBe(expected);
+    });
+});
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			        NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31   6%2:{
+
+}   9%3:{
+
+}   12%4:{
+
+}   9%3:{
+
+}    6%2:{
+
+}   9%3:{
+
+"test/es/geekshubs/academy/kata3/Suite.test.ts"d34L, 784Csescritoskshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    9%     3:13 ./../src/es/geekshubs/academy/kata3/Animals" +  4./../src/es/geekshubs/academy/kata3/Animals"5/../../src/es/geekshubs/academy/kata3/Animals"6 NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ?? +                                       unix  utf-8  typescript    9%     3:15 :wq
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm test/es/geekshubs/academy/kata3/Suite.test.ts
+
+> test
+> jest
+
+Determining test suites to run...
+
+ RUNS  out/test/suite.test.js
+ PASS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+ FAIL  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+  ● Test suite failed to run
+
+    test/es/geekshubs/academy/kata3/Suite.test.ts:3:9 - error TS2307: Cannot find module '../../../../src/es/geekshubs/academy/kata3/Animals' or its corresponding type declarations.
+
+    3 }  from "../../../../src/es/geekshubs/academy/kata3/Animals"
+	      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+Test Suites: 1 failed, 1 passed, 2 total
+Tests:	     3 passed, 3 total
+Snapshots:   0 total
+Time:	     2.223s
+Ran all test suites.
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  vim test/es/geekshubs/academy/kata3/Suite.test.ts
+"test/es/geekshubs/academy/kata3/Suite.test.ts" 34L, 784C▽  import {
+  Animal, Horse, Snake
+}  from "../../../../src/es/geekshubs/academy/kata3/Animals"
+describe('Testing', function (){
+    test('Animal name', function () { //Arrange var expected = "Animal-1"; //Act var result = new Animal("Animal-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('Horse name', function () { //Arrange var expected = "Horse-1"; //Act var result = new Horse("Horse-1"); //Assert expect(result.name).toBe(expected);
+    });
+    test('Snake name', function () { //Arrange var expected = "Snake-1"; //Act var result = new Snake("Snake-1"); //Assert expect(result.name).toBe(expected);
+    });
+});
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			        NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    3%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31   6%2:{
+
+}   9%3:{
+
+"test/es/geekshubs/academy/kata3/Suite.test.ts" 34L,s787C/escritoss/academy/kata3/Suite.test.ts ??                                         unix  utf-8  typescript    9%     3:10 ./../../../src/es/geekshubs/academy/kata3/Animals" +  1./../../../src/es/geekshubs/academy/kata3/Animals"2/../../../../src/es/geekshubs/academy/kata3/Animals"3 NORMAL   lolo_devel  test/es/geekshubs/academy/kata3/Suite.test.ts ?? +                                       unix  utf-8  typescript    9%     3:12 :wq
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  npm test/es/geekshubs/academy/kata3/Suite.test.ts
+
+> test
+> jest
+
+Determining test suites to run...
+
+ RUNS  out/test/suite.test.js
+ PASS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+
+ RUNS  out/test/suite.test.js
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+ PASS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+ RUNS  test/es/geekshubs/academy/kata3/Suite.test.ts
+
+Test Suites: 2 passed, 2 total
+Tests:	     6 passed, 6 total
+Snapshots:   0 total
+Time:	     2.332s
+Ran all test suites.
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git status
+En la rama lolo_devel
+Tu rama está actualizada con 'origin/lolo_devel'.
+
+Cambios no rastreados para el commit:
+  (usa "git add/rm <archivo>..." para actualizar a lo que se le va a hacer commit)
+  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
+
+	modificado:	package.json
+	modificado:	src/es/geekshubs/academy/kata3/Animals.ts
+	borrado:	src/main.ts
+	borrado:	test/suite.test.ts
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+
+	out/
+	src/Main.ts
+	test/es/
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git add src/
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git status
+En la rama lolo_devel
+Tu rama está actualizada con 'origin/lolo_devel'.
+
+Cambios a ser confirmados:
+  (usa "git reset HEAD <archivo>..." para sacar del área de stage)
+
+	renombrado:	src/main.ts -> src/Main.ts
+	modificado:	src/es/geekshubs/academy/kata3/Animals.ts
+
+Cambios no rastreados para el commit:
+  (usa "git add/rm <archivo>..." para actualizar a lo que se le va a hacer commit)
+  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
+
+	modificado:	package.json
+	borrado:	test/suite.test.ts
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+
+	out/
+	test/es/
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git add test/
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git status
+En la rama lolo_devel
+Tu rama está actualizada con 'origin/lolo_devel'.
+
+Cambios a ser confirmados:
+  (usa "git reset HEAD <archivo>..." para sacar del área de stage)
+
+	renombrado:	src/main.ts -> src/Main.ts
+	modificado:	src/es/geekshubs/academy/kata3/Animals.ts
+	nuevo archivo:	test/es/geekshubs/academy/kata3/Suite.test.ts
+	borrado:	test/suite.test.ts
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
+
+	modificado:	package.json
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+
+	out/
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git diff --cached
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+renamed: src/main.ts to src/Main.ts
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+modified: src/es/geekshubs/academy/kata3/Animals.ts
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+@ src/es/geekshubs/academy/kata3/Animals.ts:8 @ export class _Service {
+    constructor() {
+    }
+
+    get(index:number) : _Animal{
+    get(index:number) : Animal{
+	return this.repository.list[index];
+    }
+
+    put(animal: _Animal) : number {
+    put(animal: Animal) : number {
+	return this.repository.list.push(animal);
+    }
+
+    deleteFirst() : _Animal {
+    deleteFirst() : Animal {
+	return this.repository.list.shift()!;
+    }
+
+    deleteLast() : _Animal {
+    deleteLast() : Animal {
+	return this.repository.list.pop()!;
+    }
+}
+
+export class _Animal {
+export class Animal {
+
+    constructor(public name:string ) { }
+
+@ src/es/geekshubs/academy/kata3/Animals.ts:35 @ export class _Animal {
+    }
+}
+
+export class _Snake extends _Animal {
+export class Snake extends Animal {
+
+    constructor( name : string ) { super(name); }
+
+@ src/es/geekshubs/academy/kata3/Animals.ts:45 @ export class _Snake extends _Animal {
+    }
+}
+
+export class _Horse extends _Animal {
+export class Horse extends Animal {
+
+    constructor( name : string ) { super(name); }
+
+@ src/es/geekshubs/academy/kata3/Animals.ts:57 @ export class _Horse extends _Animal {
+
+export class _Repository {
+
+    list = new Array<_Animal>()
+    list = new Array<Animal>()
+
+    constructor() {
+	this.prepare();
+    }
+
+    private prepare() : void {
+	this.list.push(new _Horse("Horse-1"));
+	this.list.push(new _Animal("Animal-1"));
+	this.list.push(new _Snake("Snake-1"));
+	this.list.push(new _Horse("Horse-2"));
+	this.list.push(new _Animal("Animal-2"));
+	this.list.push(new _Snake("Snake-2"));
+	this.list.push(new _Horse("Horse-3"));
+	this.list.push(new _Snake("Snake-3"));
+	this.list.push(new _Animal("Animal-3"));
+	this.list.push(new _Horse("Snake-4"));
+:ESC[6~ this.list.push(new Horse("Horse-1"));
+	this.list.push(new Animal("Animal-1"));
+	this.list.push(new Snake("Snake-1"));
+	this.list.push(new Horse("Horse-2"));
+	this.list.push(new Animal("Animal-2"));
+	this.list.push(new Snake("Snake-2"));
+	this.list.push(new Horse("Horse-3"));
+	this.list.push(new Snake("Snake-3"));
+	this.list.push(new Animal("Animal-3"));
+	this.list.push(new Horse("Snake-4"));
+    }
+
+    getList() : Array<_Animal> {
+    getList() : Array<Animal> {
+	return this.list;
+    }
+}
+\ No newline at end of file
+}
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+added: test/es/geekshubs/academy/kata3/Suite.test.ts
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+@ test/es/geekshubs/academy/kata3/Suite.test.ts:4 @
+import {
+  Animal, Horse, Snake
+}  from "../../../../../src/es/geekshubs/academy/kata3/Animals"
+
+describe('Testing', function (){
+
+    test('Animal name', function () {
+	//Arrange
+	var expected = "Animal-1";
+	//Act
+	var result = new Animal("Animal-1");
+	//Assert
+	expect(result.name).toBe(expected);
+    });
+
+    test('Horse name', function () {
+	//Arrange
+	var expected = "Horse-1";
+	//Act
+	var result = new Horse("Horse-1");
+	//Assert
+	expect(result.name).toBe(expected);
+    });
+
+    test('Snake name', function () {
+	//Arrange
+	var expected = "Snake-1";
+	//Act
+	var result = new Snake("Snake-1");
+	//Assert
+	expect(result.name).toBe(expected);
+    });
+
+});
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+deleted: test/suite.test.ts
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+@ test/suite.test.ts:1 @
+import { _Animal }  from "../src/es/geekshubs/academy/kata3/Animals"
+import { _Horse }  from "../src/es/geekshubs/academy/kata3/Animals"
+import { _Snake }  from "../src/es/geekshubs/academy/kata3/Animals"
+
+describe('Testing', function (){
+
+    test('_Animal name', function () {
+	//Arrange
+	var expected = "Animal-1";
+	//Act
+	var result = new _Animal("Animal-1");
+	//Assert
+	expect(result.name).toBe(expected);
+    });
+
+:ESCtest('_Horse name', function () {
+	//Arrange
+	var expected = "Horse-1";
+	//Act
+	var result = new _Horse("Horse-1");
+	//Assert
+	expect(result.name).toBe(expected);
+    });
+
+    test('_Snake name', function () {
+	//Arrange
+	var expected = "Snake-1";
+	//Act
+	var result = new _Snake("Snake-1");
+	//Assert
+	expect(result.name).toBe(expected);
+    });
+
+});
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git commit -andFlocations.mGREEN"
+[lolo_devel 5408797] Refactor file names and locations. GREEN
+ 4 files changed, 54 insertions(+), 54 deletions(-)
+ rename src/{main.ts => Main.ts} (100%)
+ create mode 100644 test/es/geekshubs/academy/kata3/Suite.test.ts
+ delete mode 100644 test/suite.test.ts
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  <package.json jq '. * {
+     scripts: {
+   	test: "jest",
+   	"test:watch": "jest --watchAll"
+     }
+   }' >package.json.new
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  mv package.json.new package.json
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git diff package.json
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+modified: package.json
+───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+@ package.json:4 @
+{
+    "scripts": {
+      "test": "jest",
+      "build": "tsc"
+    },
+    "devDependencies": {
+      "@types/jest": "^25.2.3",
+      "jest": "^25.5.4",
+      "ts-jest": "^25.5.1",
+      "typescript": "^3.9.5"
+    },
+    "dependencies": {}
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "test:watch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^25.5.4",
+    "standard": "^16.0.3",
+    "ts-jest": "^25.5.1",
+    "ts-standard": "^10.0.0",
+    "typescript": "^3.9.5"
+  }
+
+\ No newline at end of file
+}
+
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git add package.json
+g lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git commit -m "add watch script"
+[lolo_devel 3630ce6] add watch script
+ 1 file changed, 13 insertions(+), 12 deletions(-)
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  git push
+Contando objetos: 17, listo.
+Delta compression using up to 8 threads.
+Comprimiendo objetos: 100% (8/8), listo.
+Escribiendo objetos: 100% (17/17), 1.56 KiB | 1.56 MiB/s, listo.
+Total 17 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To github.com:lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03.git
+   76e91e3..3630ce6  lolo_devel -> lolo_devel
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  echo "Tengo un terminal extra corriendo los tests con el watcher"
+Tengo un terminal extra corriendo los tests con el watcher
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  cd src/es/geekshubs/academy/kata3/
+ lorenzo  …  geekshubs  academy  kata3  mv Animals.ts AnimalsOld.ts
+ lorenzo  …  geekshubs  academy  kata3  vim Animal.ts
+"Animal.ts" [Archivo nuevo]▽
+export78c9l10cclas3 2109 8iin1inte2r3f4a5c6interface78A9n20i1m2a3l45{6											       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			       NORMAL   lolo_devel  ./Animal.ts                                                                                      unix  typescript  100%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31-- INSERTAR -- INSERT   lolo_devel  ./Animal.ts                                                                                      unix  typescript  100%     1:1  e +  2x3p4o5r6
+}{										2:3 
+}2{
+}   50%1:{
+}6
+} {
+    67%2:3 m4o5v6e7:89 NORMAL   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   67%     2:8  7-- INSERTAR -- INSERT   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   67%     2:7  (:8m:9e:10t:1e:2r:3s:4::5n:6u:7m:8b:number:1):()21(m):4v5ovoid8 NORMAL   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   67%     2:27 {
+
+} 100%3:1 {
+
+}   67%2:27{
+
+}  33%1:25{
+
+}   67%2:27{
+
+} 100%3:1 {
+
+}   67%2:27{
+
+} 100%3:1 {
+
+}   67%2:27{
+
+}  33%1:25-- INSERTAR -- INSERT   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   33%     1:25 6
+
+} {
+
+"Animal.ts"g[Nuevo]a5L,e77C(escritos6rstring20 NORMAL   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   50%     2:19   75%3:  50%2:-- INSERTAR -- INSERT   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   50%     2:19 20   60%3:3  NORMAL   lolo_devel  ./Animal.ts +                                                                                    unix  typescript   60%     3:1    80%4:3:wq
+ lorenzo  …  geekshubs  academy  kata3  touch AnimalImpl.ts
+ lorenzo  …  geekshubs  academy  kata3  vim AnimalImpl.ts AnimalOl
+AnimalImpl.ts  AnimalsOld.ts  Animal.ts
+ lorenzo  …  geekshubs  academy  kata3  vim AnimalImpl.ts AnimalsOld.ts
+2 archivos que editar
+"AnimalImpl.ts" 0L, 0C▽
+"AnimalsOld.ts" 79L, 1654Cexport class _Service {													       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			       NORMAL   lolo_devel  ./AnimalImpl.ts ??                                                                       unix  utf-8  typescript  100%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31:next
+										    repository = new _Repository();																    constructor() {								    }																				    get(index:number) : Animal{ 							return this.repository.list[index];					    }																				    put(animal: Animal) : number {							return this.repository.list.push(animal);				    }																				    deleteFirst() : Animal {								return this.repository.list.shift()!;					    }																				    deleteLast() : Animal {								return this.repository.list.pop()!;					    }										}																				export class Animal {																		    constructor(public name:string ) { }															    move(meters: number) {								var msg = this.name + " moved " + meters + "m.";				console.log(msg);							    }										}																				export class Snake extends Animal {																    constructor( name : string ) { super(name); }														    move() {										console.log("Slithering...");							super.move(30); 							    }										}																				export class Horse extends Animal {																    constructor( name : string ) { super(name); }														    move()  {										console.log("Galloping...");							super.move(45); 							    }										}																				export class _Repository {																	    list = new Array<Animal>()																	    constructor() {									this.prepare(); 							    }																				    private prepare() : void {								this.list.push(new Horse("Horse-1"));						this.list.push(new Animal("Animal-1")); 					this.list.push(new Snake("Snake-1"));						this.list.push(new Horse("Horse-2"));						this.list.push(new Animal("Animal-2")); 					this.list.push(new Snake("Snake-2"));						this.list.push(new Horse("Horse-3"));						this.list.push(new Snake("Snake-3"));						this.list.push(new Animal("Animal-3")); 					this.list.push(new Horse("Snake-4"));					    }																				sOld.   1%   3%2:   4%3:   5%4:   6%5:   8%6:   9%7:  10%8:  11%9:  10%8:   9%7:   8%6:   6%5:   5%4:   4%3:   3%2:   1%1:   3%2:   4%3:   5%4:   6%5:   8%6:   9%7:  10%8:  11%9:  13%10:  14%1:  15%2:  16%3:  18%4:  19%5:  20%6:  22%7:  23%8:  24%9:  25%20:  27%1:  28%2:{}  29%3:{ }   30%4:  32%5:  33%6:  34%7:  35%8:  37%9:  38%30:  39%1:  41%2:{}  42%3: -- LÍNEA VISUAL -- V·LINE  ⇕1   lolo_devel  ./AnimalsOld.ts ??  {	 }
+} 2   41%2:	  console.log(msg);
+ 3   39%1:	 var msg = this.name + " moved " + meters + "m.";
+ 4   38%0:   move(meters: number) {
+ 5   37%29:
+ 6   35%8:   constructor(public name:string ) { }
+ 7   34%7: 8   33%6:xport class Animal {
+ 9   32%5:export 10   lolo_devel  ./AnimalsOld.ts ??    30%4:{}
+ 1   29%3:{    }
+} 2   28%2:{   }
+}1   29%3:{ }
+ 0   30%4:
+export class Animal {
+
+    constructor(public name:string ) { }
+
+    move(meters: number) {
+	var msg = this.name + " moved " + meters + "m.";
+	console.log(msg);
+    }
+"AnimalImpl.ts"e0L,O0CAL   lolo_devel  ./AnimalsOld.ts ??        :prev
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      Impl. 100% 1:10 líneas más										export class Animal {																		    constructor(public name:string ) { }															    move(meters: number) {								var msg = this.name + " moved " + meters + "m.";				console.log(msg);							    }										}										 +    18%2:   9%1:
+ lorenzo  …  geekshubs  academy  kata3  mv7AnimalsOld.ts-Animals.tsnumber)l{" INSERT   lolo_devel  ./AnimalImpl.ts ?? +                                                                     unix  utf-8  typescript   64%     7:7  te(meters::number) {8 NORMAL   lolo_devel  ./AnimalImpl.ts ?? +                                                                     unix  utf-8  typescript   64%     7:7  1 cambio; antes #6  hace 3 segundosv      55%6:4  45%5:7  55%6:4:wqa20 I {1m {2p {3l {4  {5i {6m {7p {8l {9e {30m {1e {2n {3t {4e {5{ 4implements {5	{6A {7n {8i {9m {40a {1l {2 NORMAL   lolo_devel  ./AnimalImpl.ts ?? +                                                                     unix  utf-8  typescript   20%     2:41   10%1:33-- INSERTAR -- INSERT   lolo_devel  ./AnimalImpl.ts ?? +                                                                     unix  utf-8  typescript   10%     1:33 4   18%2:1  NORMAL   lolo_devel  ./AnimalImpl.ts ?? +                                                                     unix  utf-8  typescript   18%     2:1    27%3:  36%4:  45%5:  55%6:  64%7:  73%8:  82%9:  91%10:  82% 9:  73%8::w
+ lorenzo  …  geekshubs  academy  kata3  vim Animals.ts
+"Animals.ts" 79L, 1654C▽  export class _Service {
+    repository = new _Repository();
+    constructor() {
+    }
+    get(index:number) : Animal{ return this.repository.list[index];
+    }
+    put(animal: Animal) : number { return this.repository.list.push(animal);
+    }
+    deleteFirst() : Animal { return this.repository.list.shift()!;
+    }
+    deleteLast() : Animal { return this.repository.list.pop()!;
+    }
+}
+export class Animal {
+    constructor(public name:string ) { }
+    move(meters: number) { var msg = this.name + " moved " + meters + "m."; console.log(msg);
+    }
+}
+export class Snake extends Animal {
+    constructor( name : string ) { super(name); }
+    move() { console.log("Slithering..."); super.move(30);
+    }
+}
+export class Horse extends Animal {
+    constructor( name : string ) { super(name); }
+    move()  { console.log("Galloping..."); super.move(45);
+    }
+}
+export class _Repository {
+    list = new Array<Animal>()
+    constructor() { this.prepare();
+    }
+    private prepare() : void { this.list.push(new Horse("Horse-1")); this.list.push(new Animal("Animal-1")); this.list.push(new Snake("Snake-1")); this.list.push(new Horse("Horse-2")); this.list.push(new Animal("Animal-2")); this.list.push(new Snake("Snake-2")); this.list.push(new Horse("Horse-3")); this.list.push(new Snake("Snake-3")); this.list.push(new Animal("Animal-3")); this.list.push(new Horse("Snake-4"));
+    }
+E486:ANose encontróeelpatrónmdesbúsqueda: _Service   5%4:1 {                                                     unix  utf-8  typescript    1%     1:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31   3%2:   4%3:   3%2:   1%1:   3%2:   1%1:{}23{ } 14Service {  +     3%2:4    4%3:1435   3%2:4 {}   1%1:22{ }    3%2:4    4%3:35   5%4:1    4%3:35:%s/_Service/Service/ghcc
+    }   6%5:19   8%6:5 {
+"Animals.ts"R79L,i1651CRescritosrrconeRepository/(y/n/a/q/l/^E/^Y)?CNFIRM    4% 322Repository();/S_Repository¿Reemplazar/convRepositoryr(y/n/a/q/l/^E/^Y)?_Repository  70%55:14Repositoryi{/NORMAL    71%6::wqsitory/gc
+ lorenzo  …  geekshubs  academy  kata3  cdd$(git rev-parse --show-toplevel)
+ lorenzo  ~  repos  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  cd src/
+ lorenzo  …  lorenzogrv  2021-02-btc-agile-sw-online-tutoria-03  src  cd es/geekshubs/academy/kata3/
+ lorenzo  …  geekshubs  academy  kata3  mkdir controller
+ lorenzo  …  geekshubs  academy  kata3  mkdir model
+ lorenzo  …  geekshubs  academy  kata3  treer
+ .
+ ├── controller
+ ├── model
+ ├── AnimalImpl.ts
+ ├── Animals.ts
+ └── Animal.ts
+ lorenzo  …  geekshubs  academy  kata3  mkdir model/animal
+ lorenzo  …  geekshubs  academy  kata3  mv Animal.ts model/animal/
+ lorenzo  …  geekshubs  academy  kata3  mv AnimalImpl.ts model/animal/
+ lorenzo  …  geekshubs  academy  kata3  tree
+ .
+ ├── controller
+ ├── model
+ │   └── animal
+ └── Animals.ts
+ lorenzo  …  geekshubs  academy  kata3  cd model/
+ lorenzo  …  academy  kata3  model  treer
+ .
+ └── animal
+     ├── AnimalImpl.ts
+     └── Animal.ts
+ lorenzo  …  academy  kata3  model  mkdir horse
+ lorenzo  …  academy  kata3  model  touch Horse{,Impl}.ts
+ lorenzo  …  academy  kata3  model  tree
+ .
+ ├── animal
+ │   ├── AnimalImpl.ts
+ │   └── Animal.ts
+ ├── horse
+ ├── HorseImpl.ts
+ └── Horse.ts
+ lorenzo  …  academy  kata3  model  mv Horse* horse/
+ lorenzo  …  academy  kata3  model  vim horse/
+"horse/" Nombre de archivo ilegal▽  " ============================================================================
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/model/horse
+"   Sorted by	   name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../																			       ./
+Horse.ts
+HorseImpl.ts
+E3:0:|No|se|encontró|el|patrón|de|búsqueda:|_RepositoryR"|=============================================================================../============================================0=jueN18rmari2021o18:02:54nCET  0 jue 18 mar 2021 18:02:58 CET0 jue 18emar 2021)18:02:49eCET0ejue/18pmarl2021z18:02:491CET 91:"a=============================================================================../<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*0,jue.18,mar 2021k18:02:54FCEThe0pjue:18 mard2021D18:02:58 CET0njue 18:mart2021 18:02:49"CET0=jue=18=mar=2021=18:02:49=CET  73%8:"==============================================================================../~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0 jue/18rmar?2021 18:02:54 CET    64%7:"   Quick Help: <F1>:help -:go%up dir 8D:deletersR:rename  s:sort-by  x:specia" =============================================================================  55%6:"   QuickHelp:w<F1>:help -:go:up dir==D:delete==R:rename==s:sort-by==x:specia"==============================================================================  64%7:"   Quick Help: <F1>:help  -:go4up:dir: D:deletedoR:renamears:sort-byabx:specia"d=============================================================================  55%6:"O  Quick Help: <F1>:help  -:go up dir  D:delete ~R:rename  s:sort-by  x:specia" =============================================================================  64%7:" =============================================================================../						  0 jue 18 mar 2021 18:02:54 CET    73%8:../				      ~ 	0 jue 18 mar 2021 18:02:54 CET	./					       0 jue 18 mar 2021 18:02:58 CET    82%9:./			     ~		     0 jue 18 mar 2021 18:02:58 CET  Horse.ts					    0 jue 18 mar 2021 18:02:49 CET    91%10:Horse.ts		    ~			   0 jue 18 mar 2021 18:02:49 CET  HorseImpl.ts 				  0 jue 18 mar 2021 18:02:49 CET   100%1:Horse.ts	   ~				0 jue 18 mar 2021 18:02:49 CET	HorseImpl.ts				       0 jue 18 mar 2021 18:02:49 CET    91%0:"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/model/horse/Horse.ts" 0L, 0C							 ~			  ~										 ~							~			~									       ~						       ~		      ~ 									     ~							      ~ 		    ~										   ~							     ~			  ~										 ~							    ~			horse/Horse.ts ??    typescript 100% 1:-- INSERTAR -- INSERT   lolo_devel  horse/Horse.ts ??      typescript  100%     1:1  n +  2i3m4 NORMAL   lolo_devel  horse/Horse.ts ?? +    typescript  100%     1:3  2  --No hay líneas en el búfer--1:E					  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				 NORMAL   lolo_devel   ./horse ??                                                                                          unix  netrw   73%     8:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31:vsplit
+
+
+21orse.ts.swp				    4096 jue 18 mar 2021 18:03:09 CET  8" ============================================================================" Netrw Directory Listing 				       (netrw v156)  "	 /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e"	Sorted by      name							   "   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:specia" =============================================================================../					       0 jue 18 mar 2021 18:02:54 CET  ./					      0 jue 18 mar 2021 18:03:08 CET  Horse.ts					     0 jue 18 mar 2021 18:02:49 CET  HorseImpl.ts				    0 jue 18 mar 2021 18:02:49 CET  .Horse.ts.swp				4096 jue 18 mar 2021 18:03:09 CET   NORMAL   lolo_devel   ./horse ??          unix  netrw   67%     8:1  										  horse/Horse.ts ?? +                                         100%     1:1  ../					       0 jue 18 mar 2021 18:02:54 CET  ./					      0 jue 18 mar 2021 18:03:08 CET    75%9:  ./horse ??                                                 75%     9:1   NORMAL   lolo_devel  horse/Horse.ts ?? +    typescript  100%     1:1  :q!
+
+
+~									       9./					       0 jue 18 mar 2021 18:03:21 CET  Horse.ts 				      0 jue 18 mar 2021 18:02:49 CET  ~ 									     ~										    ~										    ./horse ??          unix  netrw  91%10:./					     0 jue 18 mar 2021 18:03:21 CET  Horse.ts					    0 jue 18 mar 2021 18:02:49 CET    82% 9:./						   0 jue 18 mar 2021 18:03:21 CET  Horse.ts					  0 jue 18 mar 2021 18:02:49 CET    91%10:./						 0 jue 18 mar 2021 18:03:21 CET  Horse.ts					0 jue 18 mar 2021 18:02:49 CET	  82% 9:../					       0 jue 18 mar 2021 18:02:54 CET  ./					      0 jue 18 mar 2021 18:03:21 CET    73%8:3:222:54animal/ 12horse/	   3:21model ??                        33:22controller/1:30model/2:54Animals.ts				   1651 jue 18 mar 2021 18:00:46 CET  kata3 M   ../						0 jue 18 mar 2021 18:03:23 CET	./					       0 jue 18 mar 2021 18:03:22 CET  9:./						0 jue 18 mar 2021 18:03:22 CET	controller/				       0 jue 18 mar 2021 18:01:30 CET  10:controller/					 0 jue 18 mar 2021 18:01:30 CET  model/ 					0 jue 18 mar 2021 18:02:54 CET	1:model/					 0 jue 18 mar 2021 18:02:54 CET  Animals.ts				     1651 jue 18 mar 2021 18:00:46 CET	2:"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 79L, 1651Cexport class Service {																	 repository = new Repository(); 									constructor() { 							       }																			     get(index:number) : Animal{				      return this.repository.list[index];				       }									    put(animal: Animal) : number {						       return this.repository.list.push(animal);				  }																				deleteFirst() : Animal {							   return this.repository.list.shift()!;				      } 																			    deleteLast() : Animal {							       return this.repository.list.pop()!;					  }									     }																				   export class Animal {																	     constructor(public name:string ) { }															   move(meters: number) {							      var msg = this.name + " moved " + meters + "m.";				     console.log(msg);								}									   }																				 export class Snake extends Animal {																   constructor( name : string ) { super(name); }														 move() {									    console.log("Slithering...");						   super.move(30);							      } 									 }																			       export class Horse extends Animal {																 constructor( name : string ) { super(name); }														       move()  {									  console.log("Galloping...");							 super.move(45);							    }									       }																			     export class Repository {																	       list = new Array<Animal>()																     constructor() {									this.prepare(); 							   }																				 private prepare() : void {							    this.list.push(new Horse("Horse-1"));					   this.list.push(new Animal("Animal-1"));					  this.list.push(new Snake("Snake-1")); 					 this.list.push(new Horse("Horse-2"));						this.list.push(new Animal("Animal-2")); 				       this.list.push(new Snake("Snake-2"));					      this.list.push(new Horse("Horse-3"));					     this.list.push(new Snake("Snake-3"));					    this.list.push(new Animal("Animal-3"));					   this.list.push(new Horse("Snake-4"));				      } 																			Animals.ts M   1:2:3:4:5:6:7:8:9:10:1:2:3:4:5:6:7:8:9:20:" ============================================================================ ../																					   NORMAL   lolo_devel   ./horse ??          unix  netrw   73%     8:1    Animals.ts M                                                         20:1  ../
+./									         82%9:./
+Horse.ts								         91%10:horse/Horse.ts" 0L, 0C
+~
+~
+~
+~
+~
+~
+~
+~
+~
+export78iin1inte2r3f4a5c6interface78H9o20r1e2s321s2e34{5ript  100%     1:1  -- INSERTARo-- INSERT   lolo_devel  horse/Horse.ts ??      typescript  100%     1:1  e +  2x3p4o5r6
+}{									       2:3 
+}2{
+}   50%1:{
+}5
+
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+} {
+    67%2:3 m4o5v6e7((() 10:12v3ovoid6 NORMAL   lolo_devel  horse/Horse.ts ?? +    typescript   67%     2:15 {
+
+} 100%3:1 {
+
+}   67%2:15  33%1:   67%2:{
+
+"horse/Horse.ts" 3L, 43C escritos    {
+
+}   67%2:{
+
+} 100%3:{
+
+}" ============================================================================
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e
+"   Sorted by	   name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:specia
+" =============================================================================
+../
+./
+Horse.ts
+HorseImpl.ts								        ./horse ??        unix  netrw  73%8:../
+./									         82%9:./
+Horse.ts								         91%10:Horse.ts
+HorseImpl.ts								        100%1:"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/model/horse/HorseImpl.ts" 0L, 0C
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~									       horse/HorseImpl.ts ??              1 horse/HorseImpl.ts ??                                       100%     1:1    NORMAL   lolo_devel  Animals.ts M                                 20:1  1:2:{}3:{ } 4:5:6:7:8:9:30:1:2:{}3:{ } 4:5:6:7:8:9:40:1:2:{}3:{ } 4:5:6:7:8:9:50:1:2:1:2:{}3: -- LÍNEA VISUAL -- V·LINE  ⇕1   lolo_devel  Animals.ts M  {    } } 2 2:	     super.move(45);  3 1:	 console.log("Galloping...");  4 0:   move()  {  5 49: 6 8:   constructor( name : string ) { super(name); }  7 7:    8 6:xport class Horse extends Animal {  9 5:export 10   lolo_devel  Animals.ts M  4:10 líneas menos										    export class Repository {																	      list = new Array<Animal>()																    constructor() {								       this.prepare();								  }																				private prepare() : void {							   this.list.push(new Horse("Horse-1"));					  this.list.push(new Animal("Animal-1"));					 this.list.push(new Snake("Snake-1"));						this.list.push(new Horse("Horse-2"));					       this.list.push(new Animal("Animal-2"));					      this.list.push(new Snake("Snake-2"));					     this.list.push(new Horse("Horse-3"));					    this.list.push(new Snake("Snake-3"));					   this.list.push(new Animal("Animal-3"));					  this.list.push(new Horse("Snake-4")); 				     }																																																																																																																						     getList() : Array<Animal> {return this.list;}}~										  ~										 ~										~									       ~									      ~ 									      NORMAL   lolo_devel  Animals.ts M +      10 líneas menos NORMAL   lolo_devel  horse/HorseImpl.ts ??               100%     1:1    Animals.ts M +                                                       44:1  ás
+export class Horse extends Animal {
+
+    constructor( name : string ) { super(name); }
+
+    move()  {
+	console.log("Galloping...");
+	super.move(45);
+    }
+}									        +    18%2:   9%1:
+export class Horse extends Animal {
+
+    constructor( name : string ) { super(name); }
+
+    move()  {
+	console.log("Galloping...");
+	super.move(45);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~									         10%  20%2:  30%3:  20%2:8145  10%1:1 -- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              10%     1:1  
+
+export class Horse extends Animal {
+
+    constructor( name : string ) { super(name); }
+
+    move()  {
+	console.log("Galloping...");
+	super.move(45);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+impoconstructor(iname5:6stringl)0{}super(name);r}m78"9.30.1/2a3n4i5m6a7l8/9A40n1i2m3a4l5I6m7p8l9e5049"50 NORMAL   lolo_devel  horse/HorseImpl.ts ?? +               9%     1:49   18%2:1 {}  27%3:35{ } 28-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              27%     3:28  NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              27%     3:27 6543  36%4:3   45%5:23  36%4:3   45%5:23  55%6:1   45%5:23  36%4:3 
+
+    move()  {
+	console.log("Galloping...");
+	super.move(45);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~	super.move(45); 						         40%5  50%5:1  40%4:5{}49{ } {}4() { } 2( ) 1029876543210198()6( ) 543210  50%5:1 ()  60%6:10-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              60%     6:10  )) {09  ()10{()  NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              60%     6:9    70%7:-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              70%     7:9 console.log("Galloping...");  console.log("Galloping...");  7rconsole.log("Galloping...");8econsole.log("Galloping...");9tconsole.log("Galloping...");10uconsole.log("Galloping...");1rconsole.log("Galloping...");2nconsole.log("Galloping...");console.log("Galloping...");  console.log("Galloping...");	console.log("Galloping...");  console.log("Galloping...");  9console.log("Galloping...");  console.log("Galloping...");  7 NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              70%     7:6    80%8:  70%7:7-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              70%     7:7  rconsole.log("Galloping...");8econsole.log("Galloping...");9tconsole.log("Galloping...");10uconsole.log("Galloping...");1rconsole.log("Galloping...");2nconsole.log("Galloping.return console.log("Galloping...");4onsole.log("Galloping...");  nsole.log("Galloping...");  sole.log("Galloping...");	ole.log("Galloping...");  le.log("Galloping...");  e.log("Galloping...");  .log("Galloping...");  log("Galloping...");	og("Galloping...");  g("Galloping...");  ("Galloping...");  ()"Galloping...");	"G; 302989
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+									       return "Galloping..."super.move(45);~										    78%super.move(45);	      super.move(45);	    super.move(45);	 super.move(45);     super.move(45);	super.move(45);   super.move(45);  + super.move(45);30 NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              78%     7:29 {}  67%6:14{ }   56%5:1   44%4:29()32( ) 3 {}4{ } 5-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              44%     4:35 super(name); } {}
+
+
+    move ()  {
+      return "Galloping..." + super.move(45);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~											      super(name); }{   50%5:7 {}210{ } 19} {}
+
+
+    move ()  {
+      return "Galloping..." + super.move(45);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~										 }  55%6:7}}5{ }   45%5:619 (name)8 NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              45%     (name)   36%4:-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              36%     4:17 name : string ) { ()6 (name : string ) { ( )7(n) (name)  45%5:32(name) 1(name)2(name)  NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              45%     5:11   36%4:()7(n) 232: string ) { (name)  45%5:17{(name)
+    }  55%6:5 { }   64%7:1{}  55%6:5{ } 43  45%5:  36%4:{}3{ } 2()1-- INSERTAR -- INSERT   lolo_devel  horse/HorseImpl.ts ?? +              36%     4:31) {0(n)  NORMAL   lolo_devel  horse/HorseImpl.ts ?? +              36%     4:29 (name)  45%5:17{(name)
+    }  55%6:5 { (name)
+"horse/HorseImpl.ts"611L,9214Ceescritos    {(name)
+ " ============================================================================" Netrw Directory Listing         82%     9:29   NORMAL   lo(netrwev156)"ima/home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e"RT Sortedoby_develname"imaSortssequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$," AQuicksHelp: <F1>:help  -:go up dir  D:delete R:rename2:s:sort-byo;x:specia" =============================================================================../					      0 jue 18 mar 2021 18:03:23 CET  ./					     0 jue 18 mar 2021 18:03:24 CETcontroller/0 jue 18 mar 2021 18:01:30 CETmodel/0 jue 18 mar 2021 18:02:54 CETAnimals.ts			  1651 jue 18 mar 2021 18:00:46 CET.Animals.ts.swp			      12288 jue 18 mar 2021 18:05:11 CET~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										 NORMAL   lolo_devel   kata3 M                                     8:1  }       }					      export class Animal {  constructor(public name:string ) { }			  move(meters: number) {    var msg = this.name + " moved " + meters + "m.";console.log(msg);}		    }		      export class Snake extends Animal {			   constructor( name : string ) { super(name); }					move() {				  console.log("Slithering..."); 	super.move(30); 			}					  }									       export class Repository {							     list = new Array<Animal>()constructor() {		  this.prepare();	 private prepare() : void {							    this.list.push(new Horse("Horse-1"));					   this.list.push(new Animal("Animal-1"));					  this.list.push(new Snake("Snake-1")); 					 this.list.push(new Horse("Horse-2"));						this.list.push(new Animal("Animal-2")); 			        Animals.ts M +                                                       43:1    kata3 M                                                             8:1   NORMAL   lolo_devel  Animals.ts M +                               43:1  { } 2:1: NORMAL   lolo_devel  horse/HorseImpl.ts ??                82%     9:29   Animals.ts M +                                                       41:1  :E
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e
+"   Sorted by	   name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:specia
+" =============================================================================
+../
+./
+Horse.ts
+HorseImpl.ts ./horse ??          unix  netrw  73%8:1 
+
+animal/
+ NORMAL   lolo_devel   model ??                                    8:1  ../  41:1  
+./									       9:./
+animal/ 								       10:../
+
+Animal.ts
+AnimalImpl.ts./animal??  unix  netrw   73%  8:../
+./									         82%9:./
+Animal.ts								         91%10:Animal.ts
+AnimalImpl.ts								        100%1:"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/model/animal/AnimalImpl.ts" 11L, 244Cimport { Animal } from "./Animal"
+
+export class AnimalImpl implements Animal {
+
+    constructor(public name:string ) { }
+
+    move(meters: number) {
+	var msg = this.name + " moved " + meters + "m.";
+	console.log(msg);
+    }
+"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts"e59L,t1288C;escritos    4:5:6: NORMAL   lolo_devel  animal/AnimalImpl.ts ??              55%     6:1  : Animals.ts M                                                          6:1    64%7:  73%8:  82%9:  91%10::splitctor()b{r)e:oAnimal{list[index];imal);ue 18 mar 2021 18:03:23 CET  A}xpo}et(index:number)e:oAnimal{list[index];imal);ue 18 mar 2021 18:00:46 CET  7}xpoget(index:number)e:oAnimal{list[index];imal);                         12:}xpoget(index:number)e:oAnimal{list[index];imal);                          12}xpo}ut(return:this.repository.list[index];imal);                          41}xpo}ut(animal:tAnimal)o:inumberi{t.push(animal);- V·LINE  ⇕1   lolo_devel }xpoput(animal:tAnimal)o:inumberi{t.push(animal);og(msg);  3 1:	    var msg =}xpoput(animal:tAnimal)o:inumberi{t.push(animal);ove(meters: number) {  5 29:  }xpo}elereturntthis.repository.list.push(animal); 7: 8 6:xport class Animal {  }xpo}eleteFirst()i:.Animalt{ry.list.shift()!;); }:export 9   lolo_devel  Ani}xpodeleteFirst()i:.Animalt{ry.list.shift()!;);m}ls.ts M +  4:export 9   lol}xpodeleteFirst()i:.Animalt{ry.list.shift()!;);l}{  8 6: 7 7:	  constructor(pu}xpo}elereturn(this.repository.list.shift()!;);m}er) {	       var msg = this.n}xpo}eleteLast()h:sAnimali{ory.list.pop()!;me);e}log(msg);     } }  NORMAL  }xpodeleteLast()h:sAnimali{ory.list.pop()!;me);{}3: -- LÍNEA VISUAL -- V·LINE }xpodeleteLast()h:sAnimali{ory.list.pop()!;me);}}2 2:	 console.log(msg);  }xpo}tncreturnnthis.repository.list.pop()!;me);t}rs + "m.";  4 0:	move(meters}xpo}tnclasstSnakeaextendsrAnimal{{super(name);c}name:string ) { }  7 7: 8 6:xp}xportnclasstSnakeaextendsrAnimal{{super(name);l} Animals.ts M +  4:export 9 exportnclasstSnakeaextendsrAnimal{{super(name);} lolo_devel  Animals.ts M + exportnclasstSnakeaextendsrAnimal{{super(name); }			       }xpoconstructor(lnameS:istringg).{"super(name);A}imal {			      }xpoconstructor(lnameS:istringg).{"super(name); } 			     }xpomove()n{ole.log("Slithering...");se-1")););ing ) { super(name); }	    }xpomove()n{ole.log("Slithering...");se-1")););				   }xpo}tscconsole.log("Slithering...");se-1")););				  }xpo}tscsuper.move(30);i{al>()se("Horse-1")););ring...");			 }xpo}tsclasseRepositoryi{al>()se("Horse-1")););				}xportsclasseRepositoryi{al>()se("Horse-1"));); 			       exportsclasseRepositoryi{al>()se("Horse-1")););				      exportsclasseRepositoryi{al>()se("Horse-1")););					 listt=unewrArray<Animal>()se("Horse-1")););					listt=unewrArray<Animal>()se("Horse-1")););				   exporttclass)Serviceo{1:2:3::w3:x]; 9:l);3:imal>()																	 constructor() {								    this.prepare();							       }																			     private prepare() : void { 							this.list.push(new Horse("Horse-1"));					       this.list.push(new Animal("Animal-1"));					      this.list.push(new Snake("Snake-1"));					     this.list.push(new Horse("Horse-2"));					    this.list.push(new Animal("Animal-2"));																																																																																																							 this.list.push(new Snake("Snake-2"));this.list.push(new Horse("Horse-3"));this.list.push(new Snake("Snake-3"));this.list.push(new Animal("Animal-3"));this.list.push(new Horse("Snake-4"));}getList() : Array<Animal> {return this.list;}10 líneas menos NORMAL   lolo_devel  Animals.ts M +        3:2:
+    move(meters: number) {
+	var msg = this.name + " moved " + meters + "m.";console.log(msg);
+    }
+}
+~
+~
+~
+~
+~									        animal/AnimalImpl.ts ??                                      91%    10:1  
+
+    move(meters: number) {
+	var msg = this.name + " moved " + meters + "m.";
+	console.log(msg);
+    }
+}									        animal/AnimalImpl.ts ??                                      91%    10:1    NORMAL   lolo_devel  animal/AnimalImpl.ts ??              91%    10:1   animal/AnimalImpl.ts ??                                      91%    10:1   NORMAL   lolo_devel  animal/AnimalImpl.ts ??              91%    10:1     82% 9: NORMAL   lolo_devel  animal/AnimalImpl.ts ??              91%    10:1   animal/AnimalImpl.ts ??                                      82%     9:1  
+
+
+
+
+
+    move(meters: number) {
+	var msg = this.name + " moved " + meters + "m.";
+	console.log(msg);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~									       import { Animal } from "./Animal"
+
+export class AnimalImpl implements Animal {constructor(public name:string ) { }  64% 7:5 animal/AnimalImpl.ts ??                                      64%     7:5   NORMAL   lolo_devel  animal/AnimalImpl.ts ??              82%     9:1  
+
+
+
+
+
+    move(meters: number) {
+	var msg = this.name + " moved " + meters + "m.";
+	console.log(msg);
+    }
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~									       import { Animal } from "./Animal"
+
+e"p============================================================================  64%7:5:E
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e
+"   Sorted by	   name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:specia
+" =============================================================================
+../
+./
+Animal.ts
+AnimalImpl.ts
+.AnimalImpl.ts.swp							        ./animal ??         unix  netrw  67%8:1../
+./									         75%9:./
+Animal.ts								         83%10:Animal.ts
+AnimalImpl.ts								         92%1:Animal.ts
+AnimalImpl.ts								         83%0:./
+Animal.ts								         75% 9:../
+./									         67%8:../
+
+animal/
+horse/
+~									       model ??                         10:animal/
+horse/									       1:../
+
+Horse.ts
+HorseImpl.ts								       ./horse ??  unix  netrw   73%  8:../
+./									         82%9:./
+Horse.ts								         91%10:"horse/Horse.ts" 3L, 43Cexport interface Horse {
+  move() : void
+}
+~
+~
+~
+~
+~
+~
+~
+~									       horse/Horse.ts ??    typescript  33% 1:  67%2:  33%1:-- INSERTAR -- INSERT   lolo_devel  horse/Horse.ts ??      typescript   33%     1:1  
+
+  move() : void
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+export interface Horse { +    50%2:  25%1:
+
+export interface Horse {
+  move() : void
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"horse/Horse.ts"i5L,a86C7escritos     NORMAL   lolo_devel  animal/AnimalImpl.ts ??              64%     7:5   horse/Horse.ts ??                                            20%     1:41    55%6:4  45%5:5  36%4:1  27%3:5  18%2:1   9%1:5  18%2:1  27%3:5  36%4:1  45%5:5  55%6:4 animal/AnimalImpl.ts ??                                      55%     6:4   NORMAL   lolo_devel  horse/Horse.ts ??      typescript   20%     1:41    40%2:1   20%1:41  40%2:1 {
+
+}  60%3:24{
+
+}   80%4:15{
+
+} 100%5:1 {
+
+}   80%4:15{
+
+}  60%3:24{
+
+}   40%2:1 {
+
+}  60%3:24{
+
+} 318  80%4:15{
+
+} 100%5:1 {
+
+}   80%4:15  60%3:18  80%4:15{
+
+} 100%5:1 {
+
+}   80%4:15  60%3:18  80%4:15{
+
+} 100%5:1  horse/Horse.ts ??                                           100%     5:1    NORMAL   lolo_devel  Animals.ts M                                  6:1  5:4:3:2:1:-- INSERTAR -- INSERT   lolo_devel  Animals.ts M                                  1:1  
+																				  repository = new Repository();																constructor() { 							       }																			     get(index:number) : Animal{							return this.repository.list[index];					   }																				 put(animal: Animal) : number { 						    return this.repository.list.push(animal);				       }																			     deleteFirst() : Animal {								return this.repository.list.shift()!;					   }																				 deleteLast() : Animal {							    return this.repository.list.pop()!; 				       }									  }																				export class Snake extends Animal {																  constructor( name : string ) { super(name); } 														move() {									   console.log("Slithering...");						  super.move(30);							     }										}																			      export class Repository { 																			  export class Service { +  2:
+"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 61L, 1338C escritos    -- INSERTAR -- INSERT   lolo_devel  Animals.ts M                                  1:48 9													constructor() { 							       }																			     get(index:number) : Animal{							return this.repository.list[index];					   }																				 put(animal: Animal) : number { 						    return this.repository.list.push(animal);				       }																			     deleteFirst() : Animal {								return this.repository.list.shift()!;					   }																				 deleteLast() : Animal {							    return this.repository.list.pop()!; 				       }									  }																				export class Snake extends Animal {																  constructor( name : string ) { super(name); } 														move() {									   console.log("Slithering...");						  super.move(30);							     }										}																			      export class Repository { 									   export class Service {3:2:1:i2m3p4o5import78A9n10i1m2a3l4I5m6p7l88 18{AnimalImpl9 AnimalImpl1021}{}2{ } 3f4rfrom78"9.30/1a2n3i4m5a6l7/8a98A9n40i1m2a3l4I5m6p7l8"9 NORMAL   lolo_devel  Animals.ts M +                                1:48 :w
+																			      export class Service {																		repository = new Repository();																      constructor() {								     }																				   get(index:number) : Animal{							      return this.repository.list[index];					 }																			       put(animal: Animal) : number {							  return this.repository.list.push(animal);				     }																				   deleteFirst() : Animal {							      return this.repository.list.shift()!;					 }																			       deleteLast() : Animal {								  return this.repository.list.pop()!;					     }										}																			      export class Snake extends Animal {																constructor( name : string ) { super(name); }														      move() {										 console.log("Slithering...");							super.move(30); 							   }									      } 																			     +  2:1 
+"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 63L, 1372C escritos    2:1 1:362:1  NORMAL   lolo_devel  horse/Horse.ts ??      typescript  100%     5:1  s Animals.ts M                                                          2:1  {malImpl"3danimal/AnimalImpl"4eanimal/AnimalImpl"5lanimal/AnimalImpl"6/animal/AnimalImpl"7 NORMAL   lolo_devel  Animals.ts M +                                1:36 :w       constructor() {								     }																				   get(index:number) : Animal{							      return this.repository.list[index];					 }																			       put(animal: Animal) : number {							  return this.repository.list.push(animal);				     }																				   deleteFirst() : Animal {							      return this.repository.list.shift()!;					 }																			       deleteLast() : Animal {								  return this.repository.list.pop()!;					     }										}																			      export class Snake extends Animal {																constructor( name : string ) { super(name); }														      move() {										 console.log("Slithering...");							super.move(30); 							   }									      } 									     3:e2x3pexport78A9n10i1m2a3l45=67"87A8n9i20m1a2l3I4m5p6l7 NORMAL   lolo_devel  Animals.ts M +                                3:26 :w
+
+}   80%4:15  60%3:18  40%2:1   20%1:1898{}7{ } 6-- INSERTAR -- INSERT   lolo_devel  horse/Horse.ts ??      typescript   20%     1:16 E } from "../animal/Animal" +  7x } from "../animal/Animal"8t } from "../animal/Animal"9  40%2:1   60%3:19orse {
+
+}24e{5x{6t{7e{8nextends{1 {2A{3n{4i{5m{6a{7l{8 {{8E{9x{40t{1 {2{
+
+"horse/Horse.ts"15L,5110Cxescritos      40%2:1 {evel  horse/Horse.ts ?? +    typescript   20%     1:46 :w
+
+}  60%3:42{
+
+}   40%2:1   20%1:46272  40%2:1   60%3:22  80%4:15{
+}
+~									        +   100% {
+}   75%3:{
+"horse/Horse.ts" 4L, 94C escritos    {
+}   75%3:  50%2:  25%1:-- INSERTAR -- INSERT   lolo_devel  horse/Horse.ts ??      typescript   25%     1:1  48 +  9a5as1a1 0498 NORMAL   lolo_devel  horse/Horse.ts ?? +    typescript   25%     1:47   50%2:1 {
+}  75%3:42{
+}   50%2:1  horse/Horse.ts ?? +                                          50%     2:1    NORMAL   lolo_devel  Animals.ts M                                  2:1  1:36-- INSERTAR -- INSERT   lolo_devel  Animals.ts M                                  1:36 55 +  6aas89A60n1i2m3a4l5
+																			      export Animal = AnimalImpl																    export class Service {																	      repository = new Repository();																    constructor() {								   }																				 get(index:number) : Animal{							    return this.repository.list[index]; 				       }																			     put(animal: Animal) : number {							return this.repository.list.push(animal);				   }																				 deleteFirst() : Animal {							    return this.repository.list.shift()!;				       }																			     deleteLast() : Animal {								return this.repository.list.pop()!;					   }									      } 																			    export class Snake extends Animal { 															      constructor( name : string ) { super(name); }														    move() {									       console.log("Slithering...");						      super.move(30);								 }									    2:1 
+"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 61L, 1344C escritos    2:1 3:204:4 5:206:1 {}7:198:5 {A} 9:110:201:{}2:5 {}k3:14:205:{}6:5 { } 7:18:209:{}20:5 { } 1:12:203:{}4:5 {{a}s}5:1{ } 6:7:208:1 9:2030:1 {}1:12{ ()} 2:20("); 3:{}4:5 {{ }}5:1{2}16:7:20l/:NAnimala}-fromE"./model/animal/AnimalImp0"juen18amarp2021n18:02:54rCET".AnimexportmclassiService"{mAnimalImpl: Anima1375fjue 18/mare2021i18:14:18aCETpl1:model/lImpl:AAnimalm}lfrom}"./model/animal/Anim0ljuel18lmarm2021p18:02:54lCETfrAnimalrepositorya=/newmRepository();alImpl: 1375ajue18omar.2021e18:14:18/CETma2:model/AnimalImpl:mAnimal"}{from "./model/animal0Ajuea18mmar82021i18:02:54oCET./Animconstructor()a{Impl"-AnimalT}RfromI"./mo1375ajuea18Amara2021l18:14:18}CETom1:14}1802:54animal/imal7:09horse/12:29~m "./model/animal/AnimalImpl"omalv}lfromn"./model/animal/AnimalImpl" al } from~"./model/animal/AnimalImpl" l } from "./modeget(index:number)p:"Animal{ml"./momodel ??  animal/mpl"  NORMAL   lolo_devel  returnsthis.repository.list[index]; CET  horse/   1:27 :w		     }		  0 jue 18 mar 2021 18:12:29 CET  0:animal/			     put(animal: An0mjue 18nmare2021 18:07:09 CET  horse/			   put(animal: Animal)e:1number2{21.18:12:29mCET; 1:02:5412:29Horse.ts		   }  return this.repository.list.push(animal);18:12:29 CET  HorseImpl.ts	 }			  214 jue 18 mar 2021 18:06:50 CET  .Horse.ts.swp	 deleteFirst() : Animal12288 jue 18 mar 2021 18:13:40 CET  ./horse ??  unix  deleteFirst()::Animalt{ory.list.shift()!;		     94 jue 18 mar 2021}18return this.repository.list.shift()!; 		   214 jue 18 mar 202} 18:06:50 CET    92%1:Horse.ts					  94 jue 18 marl2021a18:12:29nCETl HorseImpl.ts 				214 jue 18 deleteLast()0::Animals{  83%0:Horse.ts!;				       94 jue return this.repository.list.pop()!;.ts				     214 }ue 18 mar 2021 18:06:50 CET    92%1:Horse.ts				    }	    94 jue 18 mar 2021 18:12:29 CET  HorseImpl.ts			    export214ajueS18kmarx2021s18:06:50{CET    83%0:./				  export class SnakejextendsaAnimal {8:12:29 CET  Horse.ts			      constructo94 juee18 mari2021 18:12:29nCET);  75% 9:../			    constructor( name : string1) {asuper(name);:}4 CET	./			    move() {	       0 jue 18 mar 2021 18:12:29 CET    67%8:../		  move()o{sole.log("Slitherin0.jue)18 mar 2021 18:14:18 CET  02:54animal/  007:0horseconsole.log("Slithering...");	       0 jue 18 mar 2021 18:12:29 CET3:~2x3psuper.move(30);2i3m4a5l67}{}8 NORMAL   lolo_devel  Animals.ts M +   m}del ??                        11:animal/-- LÍNEA VISUAL -- V·LINE  ⇕1 }  lolo0djuel18 marm2021t18:07:09 CETpohorse/mal = AnimalImpl 2 5:17 		 0 jue 18 mar 2021 18:12:29 CET  0:../			      export claexportvclassjRepository2{21 18:02:54 CET  7:09Animal.ts 				    77 jue 18 mar 2021 17:57:57 CET  AnimalImpl.ts2447:59:20.AnimalImp8:1 export classiService {       12288 jue 18 mar 2021 18:07:10 CET  ./animal??  unix  netrw   67%  8:../					      c0njueu18omar repository:=4newTRepository();				     }0 jue 18 mar 2021 18:07:09 CET    75%9:./ 					    0 jue constructor()8{07:09 CET  Animal.ts				   get(ind77:jueb}8)marA2021l17:57:57 CET    83%10:Animal.ts			      return this77ejuei18rmari2021n17:57:57 CET  AnimalImpl.ts 		 }	       get(index:number)2: Animal{0 CET    92%1:animal/AnimalImpl.ts" 11 líneas --63%--impreturnAthis.repository.list[index];			       put(animal: An}mal) : number {							  return texportpclassrAnimalImplhimplements Animal {			     }		   put(animal: Animal) : numbern{tructor(public name:string ) { }		      return this.repository.list.push(animal); 		   deleteFirst() } Animal {		   move(meters: number) {		      return this.repository.list.shift()!;   var msg = this.name + " moved " + meters + "m."; deleteFirst() : Animal {    console.log(msg);				      }   return this.repository.list.shift()!; 		       deleteLast() :}Animal {				 ~				  return this.repository.list.pop()!;		animal/AnimalImpl.ts ??             64% 7:deleteLast()5:5Animal%{:4  64%7:5  73%8: animal/AnimalImpl.ts ??                 return this.repository.list.pop()!;   NORMAL   lolo_devel  Animals.ts M }                                 2:1  3:20		      export class S}ake extends Animal {			     export class Service {										constructoexporteclassrSnake extends(Animal {		       repository = new Repository();								      move() {	    constructor( name : string ) { super(name); }    constructor() {	 console.log("Slithering...");				    }			super.movemove() {									     console.log("Slithering...");		  get(index:number) : Animal{	    super.move(30);				     return this.repository.lis}[index]; Animals.ts M +       4:1 3::w 	}			  }																      put(animal: Animal) : numbexport class Repository {				 return this.repository.list.push(animal);				    }													     list = new Array<Animal>()9:20			  deleteFirst() : Animal {				      repository = new Repository();this.repository.list.shift()!;					}							    constructor() {								   }		      deleteLast() : Animal {								 return this.repository.list.pop()!;			 get(index:number) :}Animal{							    return this.repository.list[index]; 				       }											     export class Snake extends Animal {			     put(animal: Animal) : number {							return this.repository.list.push(animal); ) { super(name); }		   }												     move() {							 deleteFirst() : Animal {onsole.log("Slithering...");				    return this.repository.list.shift()!;				       }		  }									     }								     deleteLast() : Animal {								return this.repository.list.pop()!;ice {				   }									      } 			    repository = new Repository();												    export class Snake extends Animals{ructor() {								 }						      constructor( name : string ) { super(name); }							       get(index:number) : Animal{			    move() {			  return this.repository.list[index];		       console.log("Slithering...");						      super.move(30);								 }			   put(animal: Animal) : number {		    }				      return this.repository.list.push(animal); 				 }						  export class Repository {										       deleteFirst() : Animal { 			    list = new Array<Animal>()	  return this.repository.list.shift()!; 				     }						      40:1 													   deleteLast() : Animal {							      return this.repository.list.pop()!;					 }							   repository = new Repository();																 constructor() {  export class Snake extends Animal {				}												    constructor( name : string ) { super(name); }	      get(index:number) : Animal{							 return this.repository.list[index];					    }			     console.log("Slithering...");						    super.move(30);					  put(animal: Animal) :}number {						     return this.repository.list.push(animal);					}																			      deleteFirst() : Animalt{class Repository {2:1:{}8{ } {}8 { } 1234567 {}8{ } 9101234return0this.repository.list.shift()!;/AnimalImpl" Animal } from "./model/an}mal/AnimalImpl" nimal } from "./model/animal/AnimalImpl" imal } from "./model/animal/AnimalImpl" mal } from "./model/animal/AnimalImpl" al } from "./model/andeleteLast()m:lAnimalf{om "./model/animal/AnimalImpl"  } from "./model/animal/Animareturn this.repository.list.pop()!;					}									   }																				 export class Snake extends Animal {																   constructor( name : string ) { super(name); }														 move() {									    console.log("Slithering...");						   super.move(30);							      } 									 }																			       export class Repository {						      import { AnimalImpl } from "./model/animal/AnimalImpl"export class Service { 5:54:43:52:11:52:13:54:45:56:17:5{}8:{ } 9:110:51:{}2:{ } 3:14:55:{}6:{ } 7:18:57:1{}6:5{ } 5:4:3:1{}2:5{ } 1:0: 9:1{}8:5{ } 7:6:15:54:43:52:11:5
+																			      export class Service {																		repository = new Repository();																      constructor() {								     }																				   get(index:number) : Animal{							      return this.repository.list[index];					 }																			       put(animal: Animal) : number {							  return this.repository.list.push(animal);				     }																				   deleteFirst() : Animal {							      return this.repository.list.shift()!;					 }																			       deleteLast() : Animal {								  return this.repository.list.pop()!;					     }										}																			      export class Snake extends Animal {																constructor( name : string ) { super(name); }														      move() {										 console.log("Slithering...");							super.move(30); 							   }									      } 																			    import { AnimalImpl } from "./model/animal/AnimalImpl" +  2:1{}8{ } 767 {}8{ } 910123456mpl } from "./model/animal/AnimalImpl" pl } from "./model/animal/AnimalImpl" l } from "./model/animal/AnimalImpl"	} from "./model/animal/AnimalImpl" 504987651:import { Animal } from "./model/animal/Animal"														   export class Service {																	     repository = new Repository();																   constructor() {								  }																				get(index:number) : Animal{							   return this.repository.list[index];					      } 																			    put(animal: Animal) : number {						       return this.repository.list.push(animal);				  }																				deleteFirst() : Animal {							   return this.repository.list.shift()!;				      } 																			    deleteLast() : Animal {							       return this.repository.list.pop()!;					  }									     }																				   export class Snake extends Animal {																     constructor( name : string ) { super(name); }														   move() {									      console.log("Slithering...");						     super.move(30);								}									   }																														export class Repository {1 
+"horse/Horse.ts"g4L,294C-escritosgile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 62L, 1391C escritos    3:2:1:2::wqa		      export class Service {																		repository = new Repository();																      constructor() {								     }																				   get(index:number) : Animal{							      return this.repository.list[index];					 }																			       put(animal: Animal) : number {							  return this.repository.list.push(animal);				     }																				   deleteFirst() : Animal {							      return this.repository.list.shift()!;					 }																			       deleteLast() : Animal {								  return this.repository.list.pop()!;					     }										}																			      export class Snake extends Animal {																constructor( name : string ) { super(name); }														      move() {										 console.log("Slithering...");							super.move(30); 							   }									      } 																			    import { AnimalImpl } from "./model/animal/AnimalImpl"2::w
+ lorenzo  …  academy  kata3  model  tree ..
+ ..
+ ├── controller
+ ├── model
+ │   ├── animal
+ │   └── horse
+ └── Animals.ts
+ lorenzo  …  academy  kata3  model  mkdir ../repository
+ lorenzo  …  academy  kata3  model  mkdir ../servicesry
+ lorenzo  …  academy  kata3  model  touch ../repository/RepositoryImpl}.ts
+ lorenzo  …  academy  kata3  model  touch ../serviceService{,Impl}.tsssssssssss
+ lorenzo  …  academy  kata3  model  tree
+ .
+ ├── animal
+ │   ├── AnimalImpl.ts
+ │   └── Animal.ts
+ └── horse
+     ├── HorseImpl.ts
+     └── Horse.ts
+ lorenzo  …  academy  kata3  model  vim ../
+"../" Nombre de archivo ilegal▽  " ============================================================================
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3
+"   Sorted by	   name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../																			       ./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				    NORMAL   lolo_devel   ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3 M          unix  netrw   57%     8:1  +q436f+q6b75+q6b64+q6b72+q6b6c+q2332+q2334+q2569+q2a37+q6b31" =============================================================================										    ../ 									     50%7:NetrwMessage"  --No hay líneas en el búfer--  ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3 M                                                 50%     7:1  **warning** (netrw) your hiding list is empty!				      ./NetrwMessage                                                                                                     unix 100%1:
+
+E21: No se pudo modificar, 'modifiable' está desactivado" ============================================================================
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e"   Sorted by	  name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:specia" =============================================================================../
+./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									       kata3 M                                                             7:1  **warning** (netrw) your hiding list is empty!
+ NORMAL   ./NetrwMessage                             unix  100%     1:1  " ==========================================================================" Netrw Directory Listing					    (netrw v156"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/sr"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\."	Quick Help: <F1>:help  -:go up dir  D:delete  R:rename	s:sort-by  x:spe" ==========================================================================../
+./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										~									    ~										  kata3 M                                                          7:1  **warning** (netrw) your hiding list is empty!
+ NORMAL   ./NetrwMessage                          unix  100%     1:1  " ============================================================================
+" Netrw Directory Listing					 (netrw v156)
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/e"   Sorted by	  name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:specia" =============================================================================../
+./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										~									       ~									      ~ 									     ~										    ~										   ~										  ~										 ~										  kata3 M                                                             7:1  **warning** (netrw) your hiding list is empty!
+~									       ~									      ~ 									      NORMAL   ./NetrwMessage                             unix  100%     1:1  "	Sort sequence: [\/]$,\<core\%(\.\d\"   Quick Help: <F1>:help  -:go up dir
+" =====================================../
+./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~				       ~				      ~ 				     ~					    ~					   ~					  ~					 ~					~				       ~				        kata3 M                     7:1  **warning** (netrw) your hiding list is NORMAL   NetrwMessage       1:1  "   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================									       ../
+./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			        ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3 M                                                 50%     7:1  **warning** (netrw) your hiding list is empty!
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				     NORMAL   ./NetrwMessage                                                                                                             unix  100%     1:1  "   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================									       ../
+./
+controller/
+model/
+repository/
+service/
+Animals.ts
+~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			        ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3 M                                                 50%     7:1  **warning** (netrw) your hiding list is empty!
+============================================================================  Netrw Directory Listing					     (netrw v156)      ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				   ~																				  ~																				 ~																				~																			       ~																			      ~ 																			     ~																				    ~																				    NORMAL   ./NetrwMessage                                                                                                             unix  100%     1:1  :q
+"   /home/lorenzo/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3"   Sorted by	   name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir	D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../																			      ./
+controller/
+model/										repository/									service/									Animals.ts									~																			       ~																			       lolo_devel   ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3 M  unix  netrw  57%8:" ============================================================================= 									      ../									       50%7:" =============================================================================../																				   57%8:../									       ./																			       64%9:./										   controller/																			   71%10:controller/									model/																			        79%1:model/									    repository/ 																		    86%2:repository/									service/																		        93%3:service/									    Animals.ts																			   100%4:"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 62L, 1391Cimport { Animal } from "./model/animal/Animal"
+import { AnimalImpl } from "./model/animal/AnimalImpl"
+										export class Service {
+										    repository = new Repository();
+
+    constructor() {
+    }
+
+    get(index:number) : Animal{
+	return this.repository.list[index];
+    }
+"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts"064L,21423Caescritos    {t}t19---INSERTARs-- INSERT   lolo_devel  ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts M                 6%     4:19 {}310{ } 1976: = AnimalImpl } +  7	= AnimalImpl }8= AnimalImpl } 7= AnimalImpl } 6 NORMAL   lolo_devel  ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts M +               6%     4:15  -- INSERTAR -- INSERT   lolo_devel  ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts M +               6%     4:1   NORMAL   lolo_devel  ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts M +               6%     4:1  								       }																			       export class Snake extends Animal {																   constructor( name : string ) { super(name); }														   move() {									       console.log("Slithering...");						       super.move(30);								   }									       }																			       export class Repository {																	   list = new Array<Animal>()																	   constructor() {								       this.prepare();								   }																				   private prepare() : void {							       this.list.push(new Horse("Horse-1"));					       this.list.push(new Animal("Animal-1"));					       this.list.push(new Snake("Snake-1"));					       this.list.push(new Horse("Horse-2"));					       this.list.push(new Animal("Animal-2"));					       this.list.push(new Snake("Snake-2"));					       this.list.push(new Horse("Horse-3"));					       this.list.push(new Snake("Snake-3"));					       this.list.push(new Animal("Animal-3"));					       this.list.push(new Horse("Snake-4"));					   }																				   getList() : Array<Animal> {							       return this.list;							   }									       }									       ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts M                2% 1:   3%2:   5%3:-- INSERTAR -- INSERT   lolo_devel  ~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts M                 5%     3:1     3%2:55  +     5%3:1     6%4:e2x3p4o5r6
+~
+"~/repos/lorenzogrv/2021-02-btc-agile-sw-online-tutoria-03/src/es/geekshubs/academy/kata3/Animals.ts" 62L, 1391C escritos    :wq			       :w
+ lorenzo  …  academy  kata3  model  git status
+En la rama lolo_devel
+Tu rama está actualizada con 'origin/lolo_devel'.
+
+Cambios no rastreados para el commit:
+  (usa "git add <archivo>..." para actualizar lo que será confirmado)
+  (usa "git checkout -- <archivo>..." para descartar los cambios en el directorio de trabajo)
+
+	modificado:	../Animals.ts
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
+
+	../../../../../../out/
+	./
+	../repository/
+	../service/
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+ lorenzo  …  academy  kata3  model  exit
+exit
+
+Script terminado en 2021-03-18 19:07:44+0100
