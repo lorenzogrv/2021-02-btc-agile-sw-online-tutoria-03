@@ -5,24 +5,24 @@ export class _Service {
     constructor() {
     }
 
-    get(index:number) : _Animal{
+    get(index:number) : Animal{
         return this.repository.list[index];
     }
 
-    put(animal: _Animal) : number {
+    put(animal: Animal) : number {
         return this.repository.list.push(animal);
     }
 
-    deleteFirst() : _Animal {
+    deleteFirst() : Animal {
         return this.repository.list.shift()!;
     }
 
-    deleteLast() : _Animal {
+    deleteLast() : Animal {
         return this.repository.list.pop()!;
     }
 }
 
-export class _Animal {
+export class Animal {
 
     constructor(public name:string ) { }
     
@@ -32,7 +32,7 @@ export class _Animal {
     }
 }
 
-export class _Snake extends _Animal {
+export class Snake extends Animal {
 
     constructor( name : string ) { super(name); }
 
@@ -42,7 +42,7 @@ export class _Snake extends _Animal {
     }
 }
 
-export class _Horse extends _Animal {
+export class Horse extends Animal {
    
     constructor( name : string ) { super(name); }
 
@@ -54,26 +54,26 @@ export class _Horse extends _Animal {
 
 export class _Repository {
 
-    list = new Array<_Animal>()
+    list = new Array<Animal>()
 
     constructor() {
         this.prepare();
     }
 
     private prepare() : void {
-        this.list.push(new _Horse("Horse-1"));
-        this.list.push(new _Animal("Animal-1"));
-        this.list.push(new _Snake("Snake-1"));
-        this.list.push(new _Horse("Horse-2"));
-        this.list.push(new _Animal("Animal-2"));
-        this.list.push(new _Snake("Snake-2"));
-        this.list.push(new _Horse("Horse-3"));
-        this.list.push(new _Snake("Snake-3"));
-        this.list.push(new _Animal("Animal-3"));
-        this.list.push(new _Horse("Snake-4"));
+        this.list.push(new Horse("Horse-1"));
+        this.list.push(new Animal("Animal-1"));
+        this.list.push(new Snake("Snake-1"));
+        this.list.push(new Horse("Horse-2"));
+        this.list.push(new Animal("Animal-2"));
+        this.list.push(new Snake("Snake-2"));
+        this.list.push(new Horse("Horse-3"));
+        this.list.push(new Snake("Snake-3"));
+        this.list.push(new Animal("Animal-3"));
+        this.list.push(new Horse("Snake-4"));
     }   
     
-    getList() : Array<_Animal> {
+    getList() : Array<Animal> {
         return this.list;
     }
 }
