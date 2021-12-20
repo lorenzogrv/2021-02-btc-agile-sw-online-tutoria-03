@@ -1,6 +1,9 @@
-export class _Service {
+import { Animal } from "./model/animal/Animal"
+import { AnimalImpl } from "./model/animal/AnimalImpl"
+
+export class Service {
     
-    repository = new _Repository();
+    repository = new Repository();
 
     constructor() {
     }
@@ -22,16 +25,6 @@ export class _Service {
     }
 }
 
-export class Animal {
-
-    constructor(public name:string ) { }
-    
-    move(meters: number) {
-        var msg = this.name + " moved " + meters + "m.";
-        console.log(msg);
-    }
-}
-
 export class Snake extends Animal {
 
     constructor( name : string ) { super(name); }
@@ -42,17 +35,7 @@ export class Snake extends Animal {
     }
 }
 
-export class Horse extends Animal {
-   
-    constructor( name : string ) { super(name); }
-
-    move()  {
-        console.log("Galloping...");
-        super.move(45);
-    }
-}
-
-export class _Repository {
+export class Repository {
 
     list = new Array<Animal>()
 
